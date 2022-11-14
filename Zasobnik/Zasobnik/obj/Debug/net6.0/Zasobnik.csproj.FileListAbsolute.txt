@@ -1,0 +1,15 @@
+M:\C# C3b\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.exe
+M:\C# C3b\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.deps.json
+M:\C# C3b\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.runtimeconfig.json
+M:\C# C3b\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.dll
+M:\C# C3b\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.pdb
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.csproj.AssemblyReference.cache
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.AssemblyInfoInputs.cache
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.AssemblyInfo.cs
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.csproj.CoreCompileInputs.cache
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.dll
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\refint\Zasobnik.dll
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.pdb
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.genruntimeconfig.cache
+M:\C# C3b\Zasobnik\Zasobnik\obj\Debug\net6.0\ref\Zasobnik.dll
